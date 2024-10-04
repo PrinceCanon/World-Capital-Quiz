@@ -1,0 +1,6 @@
+- Add a leaderboard
+- Add a hint button that provides a hint
+- Add difficulty:
+    Hardcore: No hints
+    Hard: 1 hint
+    Easy: 3 hints
